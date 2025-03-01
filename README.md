@@ -54,10 +54,9 @@
 - **Communication:** WiFi / Bluetooth for real-time data transmission  
 
 ### **Software**  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** React TypeScript, Shadcn, Tailwindcss
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Encrypted storage)  
+- **Database:** MongoDB 
 - **IoT Communication:** MQTT / WebSockets  
 - **Authentication:** JWT Authentication, Bycrypt js
-- **AI & Analytics:** Machine learning models for cycle prediction  
 - **AI Chatbot:** OpenAI API  
