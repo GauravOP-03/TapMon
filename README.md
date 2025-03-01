@@ -1,8 +1,8 @@
-# **Tampon - Smart Health Companion**  
+# **TapMon - Smart Health Companion**  
 🚀 *An IoT-powered solution for menstrual health tracking and personalized care*  
 
 ## **Overview**  
-**Tampon** is an advanced IoT-based product with an integrated web platform designed to assist women in managing their menstrual and reproductive health. It provides real-time tracking, AI-driven insights, secure data encryption, and community interaction.  
+**TapMon** is an advanced IoT-based product with an integrated web platform designed to assist women in managing their menstrual and reproductive health. It provides real-time tracking, AI-driven insights, secure data encryption, and community interaction.  
 
 ## **Features**  
 
