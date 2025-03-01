@@ -17,7 +17,7 @@
 - Assists with cycle predictions and wellness recommendations  
 
 ### 🔐 **Authentication & Authorization**  
-- Secure login & signup with GitHub OAuth  
+- Secure login & JWT Authentication  
 - Role-based access control  
 - End-to-end encrypted data storage  
 
